@@ -1,0 +1,17 @@
+C:\Users\Asus\source\repos\TgBotProject.Infrastructure\bin\Debug\net7.0\TgBotProject.Infrastructure.deps.json
+C:\Users\Asus\source\repos\TgBotProject.Infrastructure\bin\Debug\net7.0\TgBotProject.Infrastructure.dll
+C:\Users\Asus\source\repos\TgBotProject.Infrastructure\bin\Debug\net7.0\TgBotProject.Infrastructure.pdb
+C:\Users\Asus\source\repos\TgBotProject.Infrastructure\bin\Debug\net7.0\TgBotProject.Application.dll
+C:\Users\Asus\source\repos\TgBotProject.Infrastructure\bin\Debug\net7.0\TgBotProject.Domain.dll
+C:\Users\Asus\source\repos\TgBotProject.Infrastructure\bin\Debug\net7.0\TgBotProject.Application.pdb
+C:\Users\Asus\source\repos\TgBotProject.Infrastructure\bin\Debug\net7.0\TgBotProject.Domain.pdb
+C:\Users\Asus\source\repos\TgBotProject.Infrastructure\obj\Debug\net7.0\TgBotProject.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\TgBotProject.Infrastructure\obj\Debug\net7.0\TgBotProject.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\TgBotProject.Infrastructure\obj\Debug\net7.0\TgBotProject.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\TgBotProject.Infrastructure\obj\Debug\net7.0\TgBotProject.Infrastructure.AssemblyInfo.cs
+C:\Users\Asus\source\repos\TgBotProject.Infrastructure\obj\Debug\net7.0\TgBotProject.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\TgBotProject.Infrastructure\obj\Debug\net7.0\TgBotProject.Infrastructure.csproj.CopyComplete
+C:\Users\Asus\source\repos\TgBotProject.Infrastructure\obj\Debug\net7.0\TgBotProject.Infrastructure.dll
+C:\Users\Asus\source\repos\TgBotProject.Infrastructure\obj\Debug\net7.0\refint\TgBotProject.Infrastructure.dll
+C:\Users\Asus\source\repos\TgBotProject.Infrastructure\obj\Debug\net7.0\TgBotProject.Infrastructure.pdb
+C:\Users\Asus\source\repos\TgBotProject.Infrastructure\obj\Debug\net7.0\ref\TgBotProject.Infrastructure.dll

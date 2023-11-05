@@ -1,0 +1,12 @@
+C:\Users\Asus\source\repos\TgBotProject.Domain\bin\Debug\net7.0\TgBotProject.Domain.deps.json
+C:\Users\Asus\source\repos\TgBotProject.Domain\bin\Debug\net7.0\TgBotProject.Domain.dll
+C:\Users\Asus\source\repos\TgBotProject.Domain\bin\Debug\net7.0\TgBotProject.Domain.pdb
+C:\Users\Asus\source\repos\TgBotProject.Domain\obj\Debug\net7.0\TgBotProject.Domain.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\TgBotProject.Domain\obj\Debug\net7.0\TgBotProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\TgBotProject.Domain\obj\Debug\net7.0\TgBotProject.Domain.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\TgBotProject.Domain\obj\Debug\net7.0\TgBotProject.Domain.AssemblyInfo.cs
+C:\Users\Asus\source\repos\TgBotProject.Domain\obj\Debug\net7.0\TgBotProject.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\TgBotProject.Domain\obj\Debug\net7.0\TgBotProject.Domain.dll
+C:\Users\Asus\source\repos\TgBotProject.Domain\obj\Debug\net7.0\refint\TgBotProject.Domain.dll
+C:\Users\Asus\source\repos\TgBotProject.Domain\obj\Debug\net7.0\TgBotProject.Domain.pdb
+C:\Users\Asus\source\repos\TgBotProject.Domain\obj\Debug\net7.0\ref\TgBotProject.Domain.dll
