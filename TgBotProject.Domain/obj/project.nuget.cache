@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gcYrM1fP1kyvm2/8LwKFPpj+wDBaTQXwY7pg73o/bKsTQMJMHXQzePFxY/0kpRjXv7XBlDKyYwQn8yQ/p47ouw==",
+  "dgSpecHash": "HwzKzarGF1kR9bfSItEw76YYIiARp21CZCMTymm9KLdZFeOkjU4ymBSbt+Cx8e/YJoVQ94NkBKGotiofTv6hyQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Asus\\source\\repos\\TgBotProject.Domain\\TgBotProject.Domain.csproj",
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\UniversityApiTgBot\\TgBotProject.Domain\\TgBotProject.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
